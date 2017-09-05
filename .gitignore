@@ -18,3 +18,5 @@ coverage
 node_modules
 .vscode
 npm-debug.log
+src/app/**/*.js
+src/app/**/*.js.map

@@ -60,7 +60,6 @@ export class HeroesComponent extends BaseComponent {
 
     this.mergedHeroes$.subscribe((hero: Hero) => {
       this.heroes.push(hero);
-      
     })
   }
 
